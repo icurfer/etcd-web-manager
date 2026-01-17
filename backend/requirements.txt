@@ -1,0 +1,18 @@
+# Django
+Django>=4.2,<5.0
+djangorestframework>=3.14
+django-cors-headers>=4.3
+django-filter>=23.5
+
+# Kubernetes
+kubernetes>=28.1
+
+# Security
+cryptography>=41.0
+python-dotenv>=1.0
+
+# Database
+psycopg2-binary>=2.9
+
+# Utils
+pyyaml>=6.0
